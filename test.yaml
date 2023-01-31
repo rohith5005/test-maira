@@ -1,0 +1,11 @@
+name: test name
+summary: test summary
+labels:
+  - label1
+  - label2
+description: test description
+display_name: test display name
+icon:
+  url: test url
+  bytes: null
+  file_type: test file type
